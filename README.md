@@ -6,8 +6,7 @@
 <a href="https://linkedin.com/in/rlbpc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rlbpc" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/qmclouca" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="qmclouca" height="30" width="40" /></a>
 </p>
-
-![Rodolfo Bortoluzzi's GitHub stats](https://github-readme-stats.vercel.app/api?username=qmclouca&show_icons=true&theme=radical)
+<p align = "center">![Rodolfo Bortoluzzi's GitHub stats](https://github-readme-stats.vercel.app/api?username=qmclouca&show_icons=true&theme=radical)</p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=qmclouca&show_icons=true&locale=en&layout=compact" alt="qmclouca" /></p>
 
 <h3 align="left">Languages and Tools:</h3>
