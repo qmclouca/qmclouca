@@ -8,13 +8,12 @@
 </p>
 
 <picture>
-<source align = "center"
+<source 
   srcset="https://github-readme-stats.vercel.app/api?username=qmclouca&show_icons=true&theme=radical"
   media="(prefers-color-scheme: dark)"
 />
-
-
-
+</picture>
+  
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=qmclouca&show_icons=true&locale=en&layout=compact" alt="qmclouca" /></p>
 
 <h3 align="left">Languages and Tools:</h3>
