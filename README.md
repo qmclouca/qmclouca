@@ -20,8 +20,6 @@
 </picture>
 </div>
 
-<div align="center">
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=qmclouca&show_icons=true&locale=en&layout=compact&theme=dark" alt="qmclouca" /></p>
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
