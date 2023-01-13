@@ -16,7 +16,7 @@
   srcset="https://github-readme-stats.vercel.app/api?username=qmclouca&show_icons=true"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/?username=qmclouca&theme=react&line_height=40&hide=css&count_private=true" />
 </picture>
 </div>
 
