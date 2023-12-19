@@ -1,5 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rodolfo Lucas Bortoluzzi</h1>
-<h3 align="center">A passionate fullstack in Brazil</h3>
+<h3 align="center">"Hello, my name is Rodolfo Bortoluzzi, and I'm a passionate Brazilian software engineer with a diverse background in both technology and business. I have extensive experience in a variety of programming languages and frameworks, including C#, .NET, Java, Python, JavaScript, ReactJS, Angular, and Node.
+
+My journey in software development has been marked by a strong commitment to continuous learning and adaptability. I've been involved in creating robust infrastructures and resilient softwares, which has sharpened my skills in ensuring efficient and reliable software deployment processes.
+
+In addition to my technical prowess, I hold degrees in Business Administration, Chemistry, Biology, Production Engineering, and Civil Engineering. This unique combination of skills allows me to approach software development from a multi-faceted perspective, ensuring that technical solutions are not only efficient but also aligned with broader business goals.
+
+My ambition is to become a staff engineer, where I can contribute my diverse skills and experiences. </h3>
 
 <h3 align="center"> Connect with me:</h3>
 <p align="center">
