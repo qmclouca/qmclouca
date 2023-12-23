@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rodolfo Lucas Bortoluzzi</h1>
-<h3 align="center">"Hello, my name is Rodolfo Bortoluzzi, and I'm a passionate Brazilian software engineer with a diverse background in both technology and business. I have extensive experience in a variety of programming languages and frameworks, including C#, .NET, Java, Python, JavaScript, ReactJS, Angular, and Node.
+<h3 align="center">Hello, my name is Rodolfo Bortoluzzi, and I'm a passionate Brazilian software engineer with a diverse background in both technology and business. I have extensive experience in a variety of programming languages and frameworks, including C#, .NET, Java, Python, JavaScript, ReactJS, Angular, and Node.
 
 My journey in software development has been marked by a strong commitment to continuous learning and adaptability. I've been involved in creating robust infrastructures and resilient softwares, which has sharpened my skills in ensuring efficient and reliable software deployment processes.
 
