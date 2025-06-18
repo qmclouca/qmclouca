@@ -148,9 +148,6 @@ en-us/dotnet/maui/" target="_blank" rel="noreferrer">
   <a href="https://milvus.io/" target="_blank" rel="noreferrer">
     <img src="https://avatars.githubusercontent.com/u/61226559?s=200&v=4" alt="Milvus" width="40" height="40"/>
   </a>
-  <a href="https://platform.openai.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/OpenAI_Logo.svg" alt="OpenAI" width="40" height="40"/>
-  </a>
   <a href="https://ollama.com/" target="_blank" rel="noreferrer">
     <img src="https://avatars.githubusercontent.com/u/153515388?s=200&v=4" alt="Ollama" width="40" height="40"/>
   </a>
