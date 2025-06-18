@@ -28,13 +28,9 @@ My ambition is to grow into a Staff Engineer role where I can mentor teams, driv
   <a href="https://github.com/qmclouca" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  <a href="https://www.hackerrank.com/qmclouca" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="qmclouca" height="30" width="40" /></a>
 </p>
 
-<p align="center">
-<a href="https://linkedin.com/in/rlbpc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rlbpc" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/qmclouca" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="qmclouca" height="30" width="40" /></a>
-</p>
- 
 <div align="center">
  <img src="https://github-readme-stats-sigma-five.vercel.app/api/?username=qmclouca&theme=react&line_height=20&hide=css&count_private=true"/>
 <picture>
