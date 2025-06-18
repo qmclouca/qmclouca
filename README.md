@@ -1,13 +1,35 @@
 <h1 align="center">Hi 👋, I'm Rodolfo Lucas Bortoluzzi</h1>
-<h3 align="center">Hello, my name is Rodolfo Bortoluzzi, and I'm a passionate Brazilian software engineer with a diverse background in both technology and business. I have extensive experience in a variety of programming languages and frameworks, including C#, .NET, Java, Python, JavaScript, ReactJS, Angular, and Node.
 
-My journey in software development has been marked by a strong commitment to continuous learning and adaptability. I've been involved in creating robust infrastructures and resilient softwares, which has sharpened my skills in ensuring efficient and reliable software deployment processes.
+<h3 align="center">
+I'm a passionate Brazilian software engineer with a multidisciplinary background in both technology and business. I have strong experience in designing and developing modern applications using technologies like C#, .NET, Java, Python, JavaScript, ReactJS, Angular, and Node.js.
+</h3>
 
-In addition to my technical prowess, I hold degrees in Business Administration, Chemistry, Biology, Production Engineering, Software Engineering, and Civil Engineering. This unique combination of skills allows me to approach software development from a multi-faceted perspective, ensuring that technical solutions are not only efficient but also aligned with broader business goals.
+<h3 align="center">
+Throughout my career, I've worked on building scalable systems and resilient architectures, integrating DevOps practices and CI/CD pipelines to ensure performance and reliability in production environments. I'm always learning and pushing boundaries to build better software.
+</h3>
 
-My ambition is to become a staff engineer, where I can contribute my diverse skills and experiences. </h3>
+<h3 align="center">
+Beyond programming, I hold academic degrees in Business Administration, Chemistry, Biology, Production Engineering, Software Engineering, and Civil Engineering. This diverse background gives me a broad and strategic vision to align technical decisions with real-world challenges and business goals.
+</h3>
 
-<h3 align="center"> Connect with me:</h3>
+<h3 align="center">
+My ambition is to grow into a Staff Engineer role where I can mentor teams, drive architectural decisions, and deliver impactful solutions by combining deep technical knowledge with cross-domain insight.
+</h3>
+
+<h3 align="center">🌐 Connect with me:</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/rodolfo-bortoluzzi/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:rodolfo.se@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/rodolfobortoluzzi" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
 <p align="center">
 <a href="https://linkedin.com/in/rlbpc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rlbpc" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/qmclouca" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="qmclouca" height="30" width="40" /></a>
