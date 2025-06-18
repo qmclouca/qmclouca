@@ -129,10 +129,8 @@ My ambition is to grow into a Staff Engineer role where I can mentor teams, driv
   <a href="https://milvus.io/" target="_blank" rel="noreferrer">
     <img src="https://avatars.githubusercontent.com/u/61226559?s=200&v=4" alt="Milvus" width="40" height="40"/>
   </a>
-</p>
-en-us/dotnet/maui/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET MAUI" width="40" height="40"/>
-  </a>
+
+
   <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
     <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI" width="40" height="40"/>
   </a>
