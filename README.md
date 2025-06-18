@@ -25,7 +25,7 @@ My ambition is to grow into a Staff Engineer role where I can mentor teams, driv
   <a href="mailto:qmclouca@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/rodolfobortoluzzi" target="_blank">
+  <a href="https://github.com/qmclouca" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
