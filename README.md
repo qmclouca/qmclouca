@@ -19,7 +19,7 @@ My ambition is to grow into a Staff Engineer role where I can mentor teams, driv
 <h3 align="center">🌐 Connect with me:</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/rodolfo-bortoluzzi/" target="_blank">
+  <a href="https://www.linkedin.com/in/rlbpc/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:qmclouca@gmail.com">
